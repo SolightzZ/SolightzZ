@@ -1,6 +1,6 @@
 ![](https://cdn.discordapp.com/attachments/1134847304378105916/1139174721842323596/Screenshot_362.png)
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Paniti jahem
+Hi ![](🖐)🖐My name is Paniti jahem
 ====================================================================================================================================
 
 Software Developer / Graphic Design / Motion Design

@@ -4,7 +4,7 @@
 Hi ![](🖐)🖐My name is Paniti jahem
 ====================================================================================================================================
 
-Software Developer / Graphic Design / Motion Design
+Minecraft Bedrock Mod Developer / Website Developer /  Graphic Design / Motion Graphic & Design
 ---------------------------------------------------
 
 I'top been learning minecraft bedrock j.son for 3 years

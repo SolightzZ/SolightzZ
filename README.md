@@ -10,7 +10,7 @@ Software Developer / Graphic Design / Motion Design
 I'top been learning minecraft bedrock j.son for 3 years
 
 * 🌍  I'm based in Bangkok, Thailand
-* 🖥️  See my portfolio at [My Portfoilo](http://https://reimdes1.wixsite.com/shop)
+* 🖥️  See my portfolio at [My Portfoilo]()
 
 ### Skills
 

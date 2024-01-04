@@ -2,9 +2,7 @@
 [![](https://cdn.discordapp.com/attachments/1134847304378105916/1139174721842323596/Screenshot_362.png)](https://reimdes1.wixsite.com/shop)
 
 Hi ![](🖐)🖐My name is Paniti jahem
-====================================================================================================================================
-
-<br>
+==================================================================================================================================== 
 
 Minecraft Bedrock Mod Developer -  Website Developer <br><br>
 Graphic Design -  Motion Graphic & Design

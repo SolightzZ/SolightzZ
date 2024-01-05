@@ -11,7 +11,7 @@ Graphic Design -  Motion Graphic & Design
 I'top been learning minecraft bedrock j.son for 3 years
 
 * 🌍  I'm based in Bangkok, Thailand
-* 🖥️  See my portfolio at [My Portfoilo](#top)
+* 🖥️  See my portfolio at [My Portfoilo](https://solightzz.github.io/SolightzZ/)
 
 ### Skills
 

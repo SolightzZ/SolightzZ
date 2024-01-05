@@ -27,11 +27,13 @@ Code css By https://github.com/Kuuuuuuuu
 }
 
 .background-1 {
-    background-size:100svh;
-    background-repeat:repeat;
-    background-image: url(4.gif);
-    transition: width .35s linear;
-    overflow-x: hidden;
+    background: #000 url(4.gif) no-repeat center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height:100%;
 }
 
 html {

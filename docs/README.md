@@ -1,6 +1,5 @@
-
-<a href="https://wakatime.com/@f0797c6d-4099-4a7f-947c-a8144dcd6348">
-    <img alt="wakatime" src="https://wakatime.com/badge/user/f0797c6d-4099-4a7f-947c-a8144dcd6348.svg"/>
+<a href="#">
+    <img alt="count" src="https://moe-counter.glitch.me/get/@MelidaZ?theme=rule34"/>
 </a>
 
 Hi ![](🖐)🖐My name is Paniti jahem

@@ -1,5 +1,9 @@
 
-[![](https://media.discordapp.net/attachments/876032428597194782/1193219909761634345/f5f27448c036af645c27467c789ad759_1.gif?ex=65abeba3&is=659976a3&hm=ca62f7c494ff472c50bc29355eb1b11f6f2b35fcccb15d4d1781203c6784feec&=&width=675&height=380)](https://reimdes1.wixsite.com/shop)
+[![](https://media.discordapp.net/attachments/876032428597194782/1193222701112905819/3_E9E9E61.gif?ex=65abee3c&is=6599793c&hm=dcd8f93e855bf363a8d18bc9d3586457f2cc6f104398fb411bad76adc9c374eb&=&width=640&height=237)](https://reimdes1.wixsite.com/shop)
+
+<P>
+    <img src="https://media.discordapp.net/attachments/876032428597194782/1193222135129309184/3_1B15914.gif?ex=65abedb6&is=659978b6&hm=1737c76ff20c42be7389188baa9d167423a3af880aceb8f62ab6a62dd745bc37&=&width=215&height=80" alt="">
+    </P>
 
 Hi ![](🖐)🖐My name is Paniti jahem
 ==================================================================================================================================== 

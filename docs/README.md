@@ -1,5 +1,7 @@
 
-[![](https://github.com/SolightzZ/SolightzZ/blob/main/f5f27448c036af645c27467c789ad759%20(1).gif)](https://reimdes1.wixsite.com/shop)
+<a href="https://wakatime.com/@f0797c6d-4099-4a7f-947c-a8144dcd6348">
+    <img alt="wakatime" src="https://wakatime.com/badge/user/f0797c6d-4099-4a7f-947c-a8144dcd6348.svg"/>
+</a>
 
 Hi ![](🖐)🖐My name is Paniti jahem
 ==================================================================================================================================== 

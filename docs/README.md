@@ -1,5 +1,5 @@
 <a href="#">
-    <img alt="count" src="https://moe-counter.glitch.me/get/@MelidaZ?theme=rule34"/>
+    <img alt="count" src="https://github.com/SolightzZ/SolightzZ/blob/main/3_4D46D78.gif"/>
 </a>
 
 Hi ![](🖐)🖐My name is Paniti jahem

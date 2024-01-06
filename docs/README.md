@@ -1,5 +1,5 @@
 
-[![](https://cdn.discordapp.com/attachments/1134847304378105916/1139174721842323596/Screenshot_362.png)](https://reimdes1.wixsite.com/shop)
+[![](https://media.discordapp.net/attachments/876032428597194782/1193219909761634345/f5f27448c036af645c27467c789ad759_1.gif?ex=65abeba3&is=659976a3&hm=ca62f7c494ff472c50bc29355eb1b11f6f2b35fcccb15d4d1781203c6784feec&=&width=675&height=380)](https://reimdes1.wixsite.com/shop)
 
 Hi ![](🖐)🖐My name is Paniti jahem
 ==================================================================================================================================== 

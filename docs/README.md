@@ -34,7 +34,7 @@ I'top been learning minecraft bedrock j.son for 3 years
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SolightzZ&theme=buefy-darkground=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=%2FSolightzZ&theme=buefy-dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SolightzZ&layout=compact&theme=buefy-dark)](https://github.com/anuraghazra/github-readme-stats)
 

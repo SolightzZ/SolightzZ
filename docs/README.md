@@ -36,8 +36,6 @@ I'top been learning minecraft bedrock j.son for 3 years
 
 <a href="http://www.github.com/SolightzZ"><img src="https://github-readme-stats.vercel.app/api?username=SolightzZ&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=a855f7&icon_color=a855f7&bg_color=181824&hide_border=true&show_icons=true" alt="SolightzZ's GitHub stats" /></a>
 
-<a href="http://www.github.com/SolightzZ"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=SolightzZ&bg_color=181824&color=a855f7&line=a855f7&point=a855f7&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/SolightzZ" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolightzZ&langs_count=10&title_color=a855f7&text_color=a855f7&icon_color=a855f7&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 

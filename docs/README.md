@@ -2,13 +2,12 @@
     <img alt="count" src="https://github.com/SolightzZ/SolightzZ/blob/main/7_C7178FE.gif"/>
 </a>
 
-Hi ![](🖐)🖐My name is Paniti jahem
-==================================================================================================================================== 
+# Hi ![](🖐)🖐My name is Paniti jahem
 
-## > Programmer & Graphic Design <
----------------------------------------------------
+## Programmer & Graphic Design
 
-### Skill Graphic Design
+
+* Skill Graphic Design
 <p>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" width="36" height="36" alt="Illustrator" /></a>
@@ -16,7 +15,7 @@ Hi ![](🖐)🖐My name is Paniti jahem
 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" width="36" height="36" alt="Premiere Pro" /></a>
 </p>
 
-### Skill Programmer
+* Skill Programmer
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -26,7 +25,6 @@ Hi ![](🖐)🖐My name is Paniti jahem
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 </p>
 
----
 
 ### :fire: My Stats :
 

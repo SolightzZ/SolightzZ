@@ -2,8 +2,6 @@
     <img alt="count" src="https://github.com/SolightzZ/SolightzZ/blob/main/7_C7178FE.gif"/>
 </a>
 
-# Hi ![](🖐)🖐My name is Paniti jahem
-
 ## Programmer & Graphic Design
 
 

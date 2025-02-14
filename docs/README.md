@@ -2,7 +2,10 @@
     <img alt="count" src="https://github.com/SolightzZ/SolightzZ/blob/main/7_C7178FE.gif"/>
 </a>
 
-## Programmer & Graphic Design
+
+## Programmer & Graphic Design ![](https://komarev.com/ghpvc/?username=SolightzZ&label=PROFILE+VIEWS)
+
+
 
 
 * Skill Graphic Design

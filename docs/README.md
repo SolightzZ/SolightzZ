@@ -4,6 +4,8 @@
 
 
 ## Programmer & Graphic Design ![](https://komarev.com/ghpvc/?username=SolightzZ&label=PROFILE+VIEWS)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SolightzZ)](https://github.com/SolightzZ)
+
 
 
 

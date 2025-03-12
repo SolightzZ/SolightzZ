@@ -4,7 +4,7 @@
 
 ### Programmer & Graphic Designer
 ![](https://komarev.com/ghpvc/?username=SolightzZ&label=PROFILE+VIEWS)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSolightzZ%2FProject_UHC_RUN&count_bg=%2369D01A&title_bg=%23555555&icon=ello.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSolightzZ&count_bg=%2369D01A&title_bg=%23555555&icon=ello.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Discord](https://badgen.net/discord/members/gtqfbmvTJK?icon=discord&label=Discord&list=what)](https://discord.gg/gtqfbmvTJK)
 
 ---

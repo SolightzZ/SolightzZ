@@ -2,7 +2,7 @@
     <img alt="count" src="https://github.com/SolightzZ/SolightzZ/blob/main/7_C7178FE.gif"/>
 </a>
 
-## Programmer & Graphic Designer
+### Programmer & Graphic Designer
 ![](https://komarev.com/ghpvc/?username=SolightzZ&label=PROFILE+VIEWS)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSolightzZ%2FProject_UHC_RUN&count_bg=%2369D01A&title_bg=%23555555&icon=ello.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Discord](https://badgen.net/discord/members/gtqfbmvTJK?icon=discord&label=Discord&list=what)](https://discord.gg/gtqfbmvTJK)
@@ -38,13 +38,6 @@
 </p>
 
 ---
-### :fire: My Stats
-
-<p>
-    <a href="http://www.github.com/SolightzZ">
-        <img src="https://github-readme-stats.vercel.app/api?username=SolightzZ&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=a855f7&icon_color=a855f7&bg_color=181824&hide_border=true&show_icons=true" alt="SolightzZ's GitHub stats" />
-    </a>
-</p>
 
 <p>
     <a href="https://github.com/SolightzZ">

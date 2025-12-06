@@ -47,7 +47,7 @@
 
 |  Cross platform |  Tools |  Other |
 |------------------|-----------|-------|
-| <img src="https://skillicons.dev/icons?i=flutter" /> | <img src="https://skillicons.dev/icons?i=npm,git,postman,figma,anaconda,dotnet,idea,visualstudio,vscode,eclipse,docker" /> | <img src="https://skillicons.dev/icons?i=robloxstudio,unity,unreal,apple,blender" /> |
+| <img src="https://skillicons.dev/icons?i=flutter" /> | <img src="https://skillicons.dev/icons?i=npm,git,postman,figma,anaconda,idea,visualstudio,vscode,eclipse" /> | <img src="https://skillicons.dev/icons?i=robloxstudio,unity,unreal,apple,blender" /> |
 
 
 

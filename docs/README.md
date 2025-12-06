@@ -45,9 +45,9 @@
 |------------|------------|--------------|
 | <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,bootstrap" /> | <img src="https://skillicons.dev/icons?i=nodejs,php,py,java,c,cs,cpp,dart" /> | <img src="https://skillicons.dev/icons?i=mysql" /> |
 
-|  Cross platform |  Tools |  AI |
+|  Cross platform |  Tools |  Other |
 |------------------|-----------|-------|
-| <img src="https://skillicons.dev/icons?i=flutter" /> | <img src="https://skillicons.dev/icons?i=git,postman,figma,anaconda,dotnet,idea,visualstudio,vscode" /> | <img src="https://skillicons.dev" /> |
+| <img src="https://skillicons.dev/icons?i=flutter" /> | <img src="https://skillicons.dev/icons?i=git,postman,figma,anaconda,dotnet,idea,visualstudio,vscode" /> | <img src="" /> |
 
 
 

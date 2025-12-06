@@ -1,8 +1,7 @@
 <a href="#">
     <img alt="count" src="https://github.com/SolightzZ/SolightzZ/blob/main/7_C7178FE.gif"/>
-</a>
 
-### Programmer & Graphic Designer
+### Dev & Graphic
 ![](https://komarev.com/ghpvc/?username=SolightzZ&label=PROFILE+VIEWS)
 [![Discord](https://badgen.net/discord/members/gtqfbmvTJK?icon=discord&label=Discord&list=what)](https://discord.gg/gtqfbmvTJK)
 
@@ -25,16 +24,9 @@
 ---
 
 ### 💻 Programming Skills
-<p align="left">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-    <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-    <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-    <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-    <a href="" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg" width="36" height="36" alt="JSON" /></a>
-    <a href="" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/182px-PHP-logo.svg.png" width="60" height="36" alt="PHP" /></a>
-    <a href="" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Dart_programming_language_logo.svg" width="100" height="36" alt="Dart" /></a>
-</p>
+<a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=js,html,css,c,java,php,dart,json&theme=dark" alt="My Skills" />
+</a>
 
 ---
 

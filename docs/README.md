@@ -1,7 +1,17 @@
-<a href="#">
-    <img alt="count" src="https://github.com/SolightzZ/SolightzZ/blob/main/7_C7178FE.gif"/>
 
-### Dev & Graphic
+
+<p href="#">
+    <img alt="count" src="https://github.com/SolightzZ/SolightzZ/blob/main/7_C7178FE.gif"/> 
+</p>
+
+<ul>
+  <h1 align="center" >Hi 🖐️ My name is TOP</h1>
+ <h3>🌠 About Me</h3>
+  <li> Developer Junior & Software Developer </li>
+  <li> Graphic & Motion Design</li>
+  <li>See my portfolio at <a href="https://solightzz.github.io/" target="_blank">solightzz.github.io</a></li>
+</ul>
+
 ![](https://komarev.com/ghpvc/?username=SolightzZ&label=PROFILE+VIEWS)
 [![Discord](https://badgen.net/discord/members/gtqfbmvTJK?icon=discord&label=Discord&list=what)](https://discord.gg/gtqfbmvTJK)
 
@@ -23,12 +33,21 @@
 
 ---
 
-### 💻 Programming Skills
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,cpp,cs,c,java,nodejs,postman,py,tailwind,php,dart,bootstrap,anaconda,dotnet,figma,flutter,git,idea,mysql,visualstudio" />
-  </a>
-</p>
+
+# 🧩 Tech Stack
+
+|  Frontend |  Backend |  Databases |
+|------------|------------|--------------|
+| <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,bootstrap" /> | <img src="https://skillicons.dev/icons?i=nodejs,php,py,java,c,cs,cpp,dart" /> | <img src="https://skillicons.dev/icons?i=mysql" /> |
+
+|  Cross platform |  Tools |  AI |
+|------------------|-----------|-------|
+| <img src="https://skillicons.dev/icons?i=flutter" /> | <img src="https://skillicons.dev/icons?i=git,postman,figma,anaconda,dotnet,idea,visualstudio,vscode" /> | <img src="https://skillicons.dev" /> |
+
+
+
+
+
 
 ---
 

@@ -43,11 +43,11 @@
 
 |  Frontend |  Backend |  Databases |
 |------------|------------|--------------|
-| <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,bootstrap" /> | <img src="https://skillicons.dev/icons?i=nodejs,php,py,java,c,cs,cpp,dart" /> | <img src="https://skillicons.dev/icons?i=mysql" /> |
+| <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,nextjs" /> | <img src="https://skillicons.dev/icons?i=nodejs,php,py,java,c,cs,cpp,dart,discordjs" /> | <img src="https://skillicons.dev/icons?i=mysql,sqlite" /> |
 
 |  Cross platform |  Tools |  Other |
 |------------------|-----------|-------|
-| <img src="https://skillicons.dev/icons?i=flutter" /> | <img src="https://skillicons.dev/icons?i=git,postman,figma,anaconda,dotnet,idea,visualstudio,vscode" /> | <img src="" /> |
+| <img src="https://skillicons.dev/icons?i=flutter" /> | <img src="https://skillicons.dev/icons?i=npm,git,postman,figma,anaconda,dotnet,idea,visualstudio,vscode,eclipse,docker" /> | <img src="https://skillicons.dev/icons?i=irobloxstudio,unity,unreal,wordpress,apple,blender,cloudflare" /> |
 
 
 

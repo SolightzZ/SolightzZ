@@ -24,9 +24,11 @@
 ---
 
 ### 💻 Programming Skills
-<a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,html,css,c,java,php,dart,json&theme=dark" alt="My Skills" />
-</a>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,cpp,cs,c,java,nodejs,postman,py,tailwind,php,dart,bootstrap,anaconda,dotnet,figma,flutter,git,idea,mysql,visualstudio" />
+  </a>
+</p>
 
 ---
 

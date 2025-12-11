@@ -43,7 +43,7 @@
 
 |  Frontend |  Backend |  Databases |
 |------------|------------|--------------|
-| <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,nextjs" /> | <img src="https://skillicons.dev/icons?i=nodejs,php,py,java,c,cs,cpp,dart,discordjs" /> | <img src="https://skillicons.dev/icons?i=mysql,sqlite" /> |
+| <img width="42" height="42" src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,nextjs" /> | <img src="https://skillicons.dev/icons?i=nodejs,php,py,java,c,cs,cpp,dart,discordjs" /> | <img src="https://skillicons.dev/icons?i=mysql,sqlite" /> |
 
 |  Cross platform |  Tools |  Other |
 |------------------|-----------|-------|

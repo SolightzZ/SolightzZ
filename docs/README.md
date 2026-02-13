@@ -29,7 +29,7 @@
 
 
 
-# 🎨 Graphic Stack
+# Graphic Stack
 
 |  Mobile |  PC |  3D |
 |-----------|-----------|-----------|
@@ -37,7 +37,7 @@
 
 
 
-# 🧩 Tech Stack
+# Tech Stack
 
 | Frontend  | Backend  | Databases |
 | --------- | -------- | --------- |

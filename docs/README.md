@@ -61,18 +61,10 @@
 </br>
 
 <div align="center" >
-  <p>
-    </a href="https://github.com/SolightzZ"> <img src="https://github-readme-stats-fast.vercel.app/api?username=SolightzZ&show_icons=true&theme=github_dark" alt="Top Languages">
-    </a href="https://github.com/SolightzZ"> <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=SolightzZ&theme=github_dark" alt="Top Languages">
-    </a href="https://github.com/SolightzZ"> <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SolightzZ&layout=compact&theme=github_dark" alt="Top Languages">
-     </a href="https://github.com/SolightzZ"> <img src="https://awesome-github-stats.azurewebsites.net/user-stats/SolightzZ?cardType=level-alternate&theme=github-dark&fontFamily=&preferLogin=true" alt="Top Languages">
-  </p>
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=pranesh-2005&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=pranesh-2005&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pranesh-2005&layout=compact&theme=github_dark)
+
 </div>
 </div>
-
----
-
-
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=pranesh-2005&show_icons=true&theme=radical)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=pranesh-2005&theme=radical)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pranesh-2005&layout=compact&theme=radical)

@@ -10,9 +10,13 @@
 	<p>
 		Junior Developer · Software Developer |  Graphic · Motion Design
   </p>  
-  <p> 
-      <img src="https://img.shields.io/badge/Portfolio-🌐-blue" link="https://solightzz.github.io/" target="_blank">
-      <img src="https://komarev.com/ghpvc/?username=SolightzZ&label=PROFILE+VIEWS&color=7a3cff&style=flat" target="_blank" />
+  <p>
+    <a href="https://solightzz.github.io/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-🌐-blue" />
+    </a>
+    <a href="https://solightzz.github.io/" target="_blank">
+      <img src="https://komarev.com/ghpvc/?username=SolightzZ&label=PROFILE+VIEWS&color=7a3cff&style=flat" />
+    </a>
   </p>
 
 </div>

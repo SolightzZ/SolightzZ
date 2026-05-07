@@ -12,10 +12,10 @@
   </p>  
   <p>
     <a href="https://solightzz.github.io/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-🌐-blue" />
+      <img src="https://img.shields.io/badge/Portfolio-🌐-blue" target="_blank"/>
     </a>
     <a href="https://solightzz.github.io/" target="_blank">
-      <img src="https://komarev.com/ghpvc/?username=SolightzZ&label=PROFILE+VIEWS&color=7a3cff&style=flat" />
+      <img src="https://komarev.com/ghpvc/?username=SolightzZ&label=PROFILE+VIEWS&color=7a3cff&style=flat" target="_blank"/>
     </a>
   </p>
 

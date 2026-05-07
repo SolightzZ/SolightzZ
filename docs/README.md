@@ -23,54 +23,51 @@
 
 <!-- Frontend -->
 <div  align="center">
-<h3>Frontend</h3>
-<table>
+  <h3>Frontend</h3>
+  <table>
+  <!-- Tr 1 -->
+  <tr align="center">
+    <td> HTML <br/>
+      <img src="https://skillicons.dev/icons?i=html" width="58" />
+    </td>
+    <td> CSS <br/> 
+      <img src="https://skillicons.dev/icons?i=css" width="58" />
+    </td>
+    <td> JavaScript <br/>
+      <img src="https://skillicons.dev/icons?i=js" width="58" />
+    </td>
+    <td> TypeScript <br />
+      <img src="https://skillicons.dev/icons?i=ts" width="58" />
+    </td>
+    <td> Material UI <br />
+      <img src="https://skillicons.dev/icons?i=materialui" width="58" />
+    </td>
+    <td> React <br/>
+      <img src="https://skillicons.dev/icons?i=react" width="58" />
+    </td>
+  </tr>
 
-<!-- Tr 1 -->
-<tr>
-  <td> HTML <br/>
-    <img src="https://skillicons.dev/icons?i=html" width="58" />
-  </td>
-  <td> CSS <br/> 
-    <img src="https://skillicons.dev/icons?i=css" width="58" />
-  </td>
-  <td> JavaScript <br/>
-    <img src="https://skillicons.dev/icons?i=js" width="58" />
-  </td>
-  <td> TypeScript <br />
-    <img src="https://skillicons.dev/icons?i=ts" width="58" />
-  </td>
-
-  <td> Material UI <br />
-    <img src="https://skillicons.dev/icons?i=materialui" width="58" />
-  </td>
-
-  <td> React <br/>
-    <img src="https://skillicons.dev/icons?i=react" width="58" />
-  </td>
-</tr>
-
-<!-- Tr 2 -->
-<tr>
-  <td>  Vite  <br/>
-    <img src="https://skillicons.dev/icons?i=vite" width="58" />
-  </td>
-  <td>  Tailwind  <br/>
-    <img src="https://skillicons.dev/icons?i=tailwind" width="58" />
-  </td>
-  <td> Bootstrap <br />
-    <img src="https://skillicons.dev/icons?i=bootstrap" width="58" />
-  </td>
-  <td> 	Next.js 	<br />
-    <img src="https://skillicons.dev/icons?i=nextjs" width="58" />
-  </td>
-  <td> SVG  <br/>
-    <img src="https://skillicons.dev/icons?i=svg" width="58" />
-  </td>
-  <td> Node.js  <br/>
-        <img src="https://skillicons.dev/icons?i=nodejs" width="58" />
-  </td>
-</tr>
+  <!-- Tr 2 -->
+  <tr align="center">
+    <td>  Vite  <br/>
+      <img src="https://skillicons.dev/icons?i=vite" width="58" />
+    </td>
+    <td>  Tailwind  <br/>
+      <img src="https://skillicons.dev/icons?i=tailwind" width="58" />
+    </td>
+    <td> Bootstrap <br />
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="58" />
+    </td>
+    <td> 	Next.js 	<br />
+      <img src="https://skillicons.dev/icons?i=nextjs" width="58" />
+    </td>
+    <td> SVG  <br/>
+      <img src="https://skillicons.dev/icons?i=svg" width="58" />
+    </td>
+    <td> Node.js  <br/>
+          <img src="https://skillicons.dev/icons?i=nodejs" width="58" />
+    </td>
+  </tr>
 </table>
 </div>
 
@@ -79,7 +76,7 @@
     <h3>Backend</h3>
     <table>
       <!-- Tr 1 -->
-    <tr>
+    <tr align="center">
       <td> Java  <br/>
         <img src="https://skillicons.dev/icons?i=java" width="58" />
       </td>
@@ -100,7 +97,7 @@
       </td>
     </tr>
       <!-- Tr 2 -->
-    <tr>
+    <tr align="center">
       <td>  Dart   <br/>
         <img src="https://skillicons.dev/icons?i=dart" width="58" />
       </td>
@@ -149,7 +146,7 @@
     <h3>Tools</h3>
     <table >
      <!-- Tr 1 -->
-    <tr>
+    <tr align="center">
       <td>  GitHub  <br/>
         <img src="https://skillicons.dev/icons?i=github" width="58" />
       </td>
@@ -170,7 +167,7 @@
       </td>
     </tr>
        <!-- Tr 2 -->
-    <tr>
+    <tr align="center">
       <td>   Obsidian    <br/>
         <img src="https://skillicons.dev/icons?i=obsidian" width="58" />
       </td> 
@@ -191,7 +188,7 @@
       </td>
     </tr>
     <!-- Tr 3 -->
-    <tr>
+    <tr align="center">
      <td> Visual Studio  <br/>
         <img src="https://skillicons.dev/icons?i=visualstudio" width="58" />
       </td>
@@ -212,7 +209,7 @@
       </td>
     </tr>
     <!-- Tr 4 -->
-       <tr>
+    <tr align="center">
       <td> Flutter  <br/> 
         <img src="https://skillicons.dev/icons?i=flutter" width="58" />
       </td>
@@ -239,7 +236,7 @@
 <div align="center">
   <h3>Graphics Tools</h3>
   <table>
-  <tr>
+  <tr align="center">
     <td>   Figma  <br/>
       <img src="https://skillicons.dev/icons?i=figma" width="58" />
     </td>

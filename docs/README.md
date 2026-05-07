@@ -1,14 +1,10 @@
-<p align="center">
-	<img
-		src="https://github.com/SolightzZ/SolightzZ/blob/main/7_C7178FE.gif"
-		alt="banner"
-	/>
-</p>
-
 <div  align="center">
-	<h3>Hi 🖐️ My name is TOP</h3>
+  <p>
+	  <img	src="https://github.com/SolightzZ/SolightzZ/blob/main/7_C7178FE.gif" alt="banner" />
+  </p>
+	  <h3>Hi 🖐️ My name is TOP</h3>
 	<p>
-		Junior Developer · Software Developer |  Graphic · Motion Design
+		Junior Developer · Software Developer </br>  Graphic · Motion Design
   </p>  
   <p>
     <a href="https://solightzz.github.io/" target="_blank">
@@ -18,11 +14,6 @@
       <img src="https://komarev.com/ghpvc/?username=SolightzZ&label=PROFILE+VIEWS&color=7a3cff&style=flat" target="_blank"/>
     </a>
   </p>
-
-</div>
-
-<div>
-
 </div>
 
 ---

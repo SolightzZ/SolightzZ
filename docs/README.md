@@ -95,9 +95,12 @@
       <td>   Python <br/>
         <img src="https://skillicons.dev/icons?i=py" width="58" />
       </td>
-      </tr>
-        <!-- Tr 2 -->
-      <tr>
+       <td>  Express   <br/>
+      <img src="https://skillicons.dev/icons?i=express" width="58" />
+      </td>
+    </tr>
+      <!-- Tr 2 -->
+    <tr>
       <td>  Dart   <br/>
         <img src="https://skillicons.dev/icons?i=dart" width="58" />
       </td>
@@ -112,25 +115,13 @@
       </td>
       <td> Firebase <br/>
         <img src="https://skillicons.dev/icons?i=firebase" width="58" />
-      </td> 
+      </td>
+        <td>   .NET  <br/>
+      <img src="https://skillicons.dev/icons?i=dotnet" width="58" />
+      </td>
     </tr>
     </table>
   </div>
-
-<!-- API -->
-<div align="center">
-    <h3>API</h3>
-    <table>
-    <tr>
-    <td>  Express   <br/>
-      <img src="https://skillicons.dev/icons?i=express" width="58" />
-    </td>
-    <td>   .NET  <br/>
-      <img src="https://skillicons.dev/icons?i=dotnet" width="58" />
-    </td>
-    </tr>
-    </table>
-</div>
 
 <!-- DataBases -->
 <div align="center">
@@ -153,41 +144,10 @@
     </table>
 </div>
 
-<!-- IDE -->
-<div align="center">
-    <h3>IDE</h3>
-    <table>
-    <!-- Tr 1 -->
-    <tr>
-      <td> Visual Studio  <br/>
-        <img src="https://skillicons.dev/icons?i=visualstudio" width="58" />
-      </td>
-      <td>   VS Code   <br/>
-        <img src="https://skillicons.dev/icons?i=vscode" width="58" />
-      </td>
-      <td>   Eclipse  <br/>
-        <img src="https://skillicons.dev/icons?i=eclipse" width="58" />
-      </td>
-      <td> Arduino  <br/>
-        <img src="https://skillicons.dev/icons?i=arduino" width="58" />
-      </td>
-      <td>  Roblox Studio  <br/>
-        <img src="https://skillicons.dev/icons?i=robloxstudio" width="58" />
-      </td>
-      <td> Unity   <br/>
-        <img src="https://skillicons.dev/icons?i=unity" width="58" />
-      </td>
-      <td>  Unreal Engine  <br/>
-        <img src="https://skillicons.dev/icons?i=unreal" width="58" />
-      </td>
-    </tr>
-    </table>
-</div>
-
 <!-- Tools -->
 <div align="center">
     <h3>Tools</h3>
-    <table>
+    <table >
      <!-- Tr 1 -->
     <tr>
       <td>  GitHub  <br/>
@@ -230,14 +190,29 @@
         <img src="https://skillicons.dev/icons?i=cloudflare" width="58" />
       </td>
     </tr>
-    </table>
-</div>
-
-<!-- Platform -->
-<div align="center">
-    <h3>Platforms</h3>
-    <table>
+    <!-- Tr 3 -->
     <tr>
+     <td> Visual Studio  <br/>
+        <img src="https://skillicons.dev/icons?i=visualstudio" width="58" />
+      </td>
+      <td>   VS Code   <br/>
+        <img src="https://skillicons.dev/icons?i=vscode" width="58" />
+      </td>
+      <td>   Eclipse  <br/>
+        <img src="https://skillicons.dev/icons?i=eclipse" width="58" />
+      </td>
+      <td> Arduino  <br/>
+        <img src="https://skillicons.dev/icons?i=arduino" width="58" />
+      </td>
+      <td>  Roblox Studio  <br/>
+        <img src="https://skillicons.dev/icons?i=robloxstudio" width="58" />
+      </td>
+      <td> Unity   <br/>
+        <img src="https://skillicons.dev/icons?i=unity" width="58" />
+      </td>
+    </tr>
+    <!-- Tr 4 -->
+       <tr>
       <td> Flutter  <br/> 
         <img src="https://skillicons.dev/icons?i=flutter" width="58" />
       </td>
@@ -250,9 +225,14 @@
       <td>  Android Studio  <br/>
         <img src="https://skillicons.dev/icons?i=androidstudio" width="58" />
       </td>
+       <td>  Unreal Engine  <br/>
+        <img src="https://skillicons.dev/icons?i=unreal" width="58" />
+      </td>
+      <td> Linux Mint  <br/>
+        <img src="https://skillicons.dev/icons?i=mint" width="58">
+      </td>
     </tr>
     </table>
-  </div>
 </div>
 
 <!-- Graphics Tools -->
@@ -260,27 +240,27 @@
   <h3>Graphics Tools</h3>
   <table>
   <tr>
-  <td>   Figma  <br/>
-    <img src="https://skillicons.dev/icons?i=figma" width="58" />
-  </td>
-  <td> Photoshop  <br/>
-    <img src="https://skillicons.dev/icons?i=ps" width="58" />
-  </td>
-  <td> Illustrator   <br/>
-    <img src="https://skillicons.dev/icons?i=ai" width="58" />
-  </td>
-  <td>  After Effects    <br/>
-    <img src="https://skillicons.dev/icons?i=ae" width="58" />
-  </td>
-  <td>  Premiere Pro  <br/>
-    <img src="https://skillicons.dev/icons?i=pr" width="58" />
-  </td>
-  <td>  SketchUp  <br/>
-    <img src="https://skillicons.dev/icons?i=sketchup" width="58" >
-  </td>
-   <td>  Blender <br/>
-    <img src="https://skillicons.dev/icons?i=blender" width="58" />
-  </td>
+    <td>   Figma  <br/>
+      <img src="https://skillicons.dev/icons?i=figma" width="58" />
+    </td>
+    <td> Photoshop  <br/>
+      <img src="https://skillicons.dev/icons?i=ps" width="58" />
+    </td>
+    <td> Illustrator   <br/>
+      <img src="https://skillicons.dev/icons?i=ai" width="58" />
+    </td>
+    <td>  After Effects    <br/>
+      <img src="https://skillicons.dev/icons?i=ae" width="58" />
+    </td>
+    <td>  Premiere Pro  <br/>
+      <img src="https://skillicons.dev/icons?i=pr" width="58" />
+    </td>
+    <td>  SketchUp  <br/>
+      <img src="https://skillicons.dev/icons?i=sketchup" width="58" >
+    </td>
+    <td>  Blender <br/>
+      <img src="https://skillicons.dev/icons?i=blender" width="58" />
+    </td>
   </tr>
   </table>
 </div>

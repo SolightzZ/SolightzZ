@@ -121,3 +121,31 @@
 </p>
 
 </div>
+
+
+<div align="center">
+
+  <img src="https://skillicons.dev/icons?i=kali" />
+  <br>
+
+  <img src="https://skillicons.dev/icons?i=dart,flutter,deno,androidstudio" />
+  <br>
+
+  <img src="https://skillicons.dev/icons?i=java,c,lua,powershell,linux,ubuntu,windows" />
+  <br>
+
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,gcp,cloudflare,postman" />
+  <br>
+
+  <img src="https://skillicons.dev/icons?i=netlify,vercel,nodejs,express,php,python" />
+  <br>
+
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,vite,svelte" />
+  <br>
+
+  <img src="https://skillicons.dev/icons?i=html,css,js,svg,bootstrap,tailwind" />
+  <br>
+
+  <img src="https://skillicons.dev/icons?i=vscode,npm,stackoverflow,replit" />
+
+</div>

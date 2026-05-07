@@ -7,10 +7,8 @@
 
 <div  align="center">
 	<h3>Hi 🖐️ My name is TOP</h3>
-	<h5>🌠 About Me</h5>
 	<p>
-		Junior Developer · Software Developer <br/>
-    Graphic & Motion Design
+		Junior Developer · Software Developer |  Graphic · Motion Design
   </p>  
   <p>
       <ahref="https://solightzz.github.io/" target="_blank"> 🌐 Portfolio

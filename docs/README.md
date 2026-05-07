@@ -1,10 +1,13 @@
 <p align="center">
-  <img src="https://github.com/SolightzZ/SolightzZ/blob/main/7_C7178FE.gif" alt="banner"/>
+	<img
+		src="https://github.com/SolightzZ/SolightzZ/blob/main/7_C7178FE.gif"
+		alt="banner"
+	/>
 </p>
 
-<div align="center">
-	<h1>Hi 🖐️ My name is TOP</h1>
-	<h3>🌠 About Me</h3>
+<div  align="center">
+	<h3>Hi 🖐️ My name is TOP</h3>
+	<h5>🌠 About Me</h5>
 	<p>
 		Junior Developer · Software Developer <br/>
     Graphic & Motion Design
@@ -18,129 +21,277 @@
 
 ---
 
-<div align="center">
-
-<div align="center">
-
+<!-- Frontend -->
+<div  align="center">
 <h3>Frontend</h3>
-
 <table>
+
+<!-- Tr 1 -->
 <tr>
-<td align="center">
-  HTML
-  <br/>
-  <img src="https://skillicons.dev/icons?i=html" width="58" />
-</td>
+  <td> HTML <br/>
+    <img src="https://skillicons.dev/icons?i=html" width="58" />
+  </td>
+  <td> CSS <br/> 
+    <img src="https://skillicons.dev/icons?i=css" width="58" />
+  </td>
+  <td> JavaScript <br/>
+    <img src="https://skillicons.dev/icons?i=js" width="58" />
+  </td>
+  <td> TypeScript <br />
+    <img src="https://skillicons.dev/icons?i=ts" width="58" />
+  </td>
 
-<td align="center">
-  CSS
-  <br/>
-  <img src="https://skillicons.dev/icons?i=css" width="58" />
-</td>
+  <td> Material UI <br />
+    <img src="https://skillicons.dev/icons?i=materialui" width="58" />
+  </td>
 
-<td align="center">
-  JavaScript
-  <br/>
-  <img src="https://skillicons.dev/icons?i=js" width="58" />
-</td>
-
-<td align="center">
-  TypeScript
-  <br/>
-  <img src="https://skillicons.dev/icons?i=ts" width="58" />
-</td>
-
-<td align="center">
-  Material UI
-  <br/>
-  <img src="https://skillicons.dev/icons?i=materialui" width="58" />
-</td>
-
-<td align="center">
-  React
-  <br/>
-  <img src="https://skillicons.dev/icons?i=react" width="58" />
-</td>
+  <td> React <br/>
+    <img src="https://skillicons.dev/icons?i=react" width="58" />
+  </td>
 </tr>
 
+<!-- Tr 2 -->
 <tr>
-<td align="center">
-  Vite
-  <br/>
-  <img src="https://skillicons.dev/icons?i=vite" width="58" />
-</td>
-
-<td align="center">
-  Tailwind
-  <br/>
-  <img src="https://skillicons.dev/icons?i=tailwind" width="58" />
-</td>
-
-<td align="center">
-  Bootstrap
-  <br/>
-  <img src="https://skillicons.dev/icons?i=bootstrap" width="58" />
-</td>
-
-<td align="center">
-  Next.js
-  <br/>
-  <img src="https://skillicons.dev/icons?i=nextjs" width="58" />
-</td>
-
-<td align="center">
-  SVG
-  <br/>
-  <img src="https://skillicons.dev/icons?i=svg" width="58" />
-</td>
+  <td>  Vite  <br/>
+    <img src="https://skillicons.dev/icons?i=vite" width="58" />
+  </td>
+  <td>  Tailwind  <br/>
+    <img src="https://skillicons.dev/icons?i=tailwind" width="58" />
+  </td>
+  <td> Bootstrap <br />
+    <img src="https://skillicons.dev/icons?i=bootstrap" width="58" />
+  </td>
+  <td> 	Next.js 	<br />
+    <img src="https://skillicons.dev/icons?i=nextjs" width="58" />
+  </td>
+  <td> SVG  <br/>
+    <img src="https://skillicons.dev/icons?i=svg" width="58" />
+  </td>
+  <td> Node.js  <br/>
+        <img src="https://skillicons.dev/icons?i=nodejs" width="58" />
+  </td>
 </tr>
 </table>
-
 </div>
 
-</div>
-  <div>
+<!-- Backend -->
+<div align="center">
     <h3>Backend</h3>
-    <img width="300" height="auto" src="https://skillicons.dev/icons?i=nodejs,java,c,cs,cpp,py,dart,discordjs,php" alt="backend"/>
+    <table>
+      <!-- Tr 1 -->
+    <tr>
+      <td> Java  <br/>
+        <img src="https://skillicons.dev/icons?i=java" width="58" />
+      </td>
+      <td>   C  <br/>
+        <img src="https://skillicons.dev/icons?i=c" width="58" />
+      </td>
+      <td>   C# <br/>
+        <img src="https://skillicons.dev/icons?i=cs" width="58" />
+      </td>
+      <td> C++  <br/>
+        <img src="https://skillicons.dev/icons?i=cpp" width="58" />
+      </td>
+      <td>   Python <br/>
+        <img src="https://skillicons.dev/icons?i=py" width="58" />
+      </td>
+      </tr>
+        <!-- Tr 2 -->
+      <tr>
+      <td>  Dart   <br/>
+        <img src="https://skillicons.dev/icons?i=dart" width="58" />
+      </td>
+      <td> Discord.js  <br/>
+        <img src="https://skillicons.dev/icons?i=discordjs" width="58" />
+      </td>
+      <td>  PHP  <br/>
+        <img src="https://skillicons.dev/icons?i=php" width="58" />
+      </td>
+      <td>  GO <br/>
+        <img src="https://skillicons.dev/icons?i=go" width="58" />
+      </td>
+      <td> Firebase <br/>
+        <img src="https://skillicons.dev/icons?i=firebase" width="58" />
+      </td> 
+    </tr>
+    </table>
   </div>
-  <div>
+
+<!-- API -->
+<div align="center">
     <h3>API</h3>
-    <img width="50" height="auto" src="https://skillicons.dev/icons?i=express,dotnet" alt="api"/>
-  <div>
+    <table>
+    <tr>
+    <td>  Express   <br/>
+      <img src="https://skillicons.dev/icons?i=express" width="58" />
+    </td>
+    <td>   .NET  <br/>
+      <img src="https://skillicons.dev/icons?i=dotnet" width="58" />
+    </td>
+    </tr>
+    </table>
+</div>
+
+<!-- DataBases -->
+<div align="center">
     <h3>Databases</h3>
-    <img  width="100" height="auto"  src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres" alt="databases"/>
-  </div>
-  <div>
+    <table>
+      <tr>
+      <td>  MySQL  <br/>
+        <img src="https://skillicons.dev/icons?i=mysql" width="58" />
+      </td>
+      <td>  SQLite   <br/>
+        <img src="https://skillicons.dev/icons?i=sqlite" width="58" />
+      </td>
+      <td>  MongoDB  <br/>
+        <img src="https://skillicons.dev/icons?i=mongodb" width="58" />
+      </td>
+      <td>   PostgreSQL   <br/>
+        <img src="https://skillicons.dev/icons?i=postgres" width="58" />
+      </td>
+      </tr>
+    </table>
+</div>
+
+<!-- IDE -->
+<div align="center">
     <h3>IDE</h3>
-    <img width="200" height="auto" src="https://skillicons.dev/icons?i=visualstudio,vscode,eclipse,arduino,robloxstudio,unity,unreal" alt="ide"/>
-  <div>
+    <table>
+    <!-- Tr 1 -->
+    <tr>
+      <td> Visual Studio  <br/>
+        <img src="https://skillicons.dev/icons?i=visualstudio" width="58" />
+      </td>
+      <td>   VS Code   <br/>
+        <img src="https://skillicons.dev/icons?i=vscode" width="58" />
+      </td>
+      <td>   Eclipse  <br/>
+        <img src="https://skillicons.dev/icons?i=eclipse" width="58" />
+      </td>
+      <td> Arduino  <br/>
+        <img src="https://skillicons.dev/icons?i=arduino" width="58" />
+      </td>
+      <td>  Roblox Studio  <br/>
+        <img src="https://skillicons.dev/icons?i=robloxstudio" width="58" />
+      </td>
+      <td> Unity   <br/>
+        <img src="https://skillicons.dev/icons?i=unity" width="58" />
+      </td>
+      <td>  Unreal Engine  <br/>
+        <img src="https://skillicons.dev/icons?i=unreal" width="58" />
+      </td>
+    </tr>
+    </table>
+</div>
+
+<!-- Tools -->
+<div align="center">
     <h3>Tools</h3>
-    <img width="300" height="auto"  src="https://skillicons.dev/icons?i=github,gitlab,npm,git,anaconda,notion,obsidian,postman,stackoverflow,md,wordpress,cloudflare" alt="tools"/>
-  </div>
-  <div> 
+    <table>
+     <!-- Tr 1 -->
+    <tr>
+      <td>  GitHub  <br/>
+        <img src="https://skillicons.dev/icons?i=github" width="58" />
+      </td>
+      <td> GitLab   <br/>
+        <img src="https://skillicons.dev/icons?i=gitlab" width="58" />
+      </td>
+      <td>  npm <br/>
+        <img src="https://skillicons.dev/icons?i=npm" width="58" />
+      </td>
+      <td>   Git   <br/>
+        <img src="https://skillicons.dev/icons?i=git" width="58" />
+      </td>
+      <td>   Anaconda   <br/>
+        <img src="https://skillicons.dev/icons?i=anaconda" width="58" />
+      </td>
+      <td>   Notion  <br/>
+        <img src="https://skillicons.dev/icons?i=notion" width="58" />
+      </td>
+    </tr>
+       <!-- Tr 2 -->
+    <tr>
+      <td>   Obsidian    <br/>
+        <img src="https://skillicons.dev/icons?i=obsidian" width="58" />
+      </td> 
+      <td>  Postman   <br/>
+        <img src="https://skillicons.dev/icons?i=postman" width="58" />
+      </td>
+      <td> Stack Overflow  <br/>
+        <img src="https://skillicons.dev/icons?i=stackoverflow" width="58" />
+      </td>
+      <td>   Markdown   <br/>
+        <img src="https://skillicons.dev/icons?i=md" width="58" />
+      </td>
+      <td>   WordPress   <br/>
+        <img src="https://skillicons.dev/icons?i=wordpress" width="58" />
+      </td>
+      <td>   Cloudflare    <br/>
+        <img src="https://skillicons.dev/icons?i=cloudflare" width="58" />
+      </td>
+    </tr>
+    </table>
+</div>
+
+<!-- Platform -->
+<div align="center">
     <h3>Platforms</h3>
-    <img width="100" height="auto" src="https://skillicons.dev/icons?i=flutter,linux,windows,androidstudio" alt="platforms"/>
+    <table>
+    <tr>
+      <td> Flutter  <br/> 
+        <img src="https://skillicons.dev/icons?i=flutter" width="58" />
+      </td>
+      <td>  Linux  <br/>
+        <img src="https://skillicons.dev/icons?i=linux" width="58" />
+      </td>
+      <td>   Windows <br/>
+        <img src="https://skillicons.dev/icons?i=windows" width="58" />
+      </td>
+      <td>  Android Studio  <br/>
+        <img src="https://skillicons.dev/icons?i=androidstudio" width="58" />
+      </td>
+    </tr>
+    </table>
   </div>
 </div>
 
-<div>
-  <div align="center">
-    <h3>Graphics Tools</h3>
-    <img width="200" height="auto" src="https://skillicons.dev/icons?i=figma,ps,ai,ae,pr,sketchup,blender" alt="graphics tools"/>
-  </div>
+<!-- Graphics Tools -->
+<div align="center">
+  <h3>Graphics Tools</h3>
+  <table>
+  <tr>
+  <td>   Figma  <br/>
+    <img src="https://skillicons.dev/icons?i=figma" width="58" />
+  </td>
+  <td> Photoshop  <br/>
+    <img src="https://skillicons.dev/icons?i=ps" width="58" />
+  </td>
+  <td> Illustrator   <br/>
+    <img src="https://skillicons.dev/icons?i=ai" width="58" />
+  </td>
+  <td>  After Effects    <br/>
+    <img src="https://skillicons.dev/icons?i=ae" width="58" />
+  </td>
+  <td>  Premiere Pro  <br/>
+    <img src="https://skillicons.dev/icons?i=pr" width="58" />
+  </td>
+  <td>  SketchUp  <br/>
+    <img src="https://skillicons.dev/icons?i=sketchup" width="58" >
+  </td>
+   <td>  Blender <br/>
+    <img src="https://skillicons.dev/icons?i=blender" width="58" />
+  </td>
+  </tr>
+  </table>
 </div>
 
 </br>
+</div>
 
----
-
-</br>
-
-<div align="center" >
+<div align="center">
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=pranesh-2005&show_icons=true&theme=github_dark)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=pranesh-2005&theme=github_dark)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pranesh-2005&layout=compact&theme=github_dark)
 
-</div>
 </div>

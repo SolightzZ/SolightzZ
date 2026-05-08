@@ -107,8 +107,8 @@
       <td>  GO <br/>
         <img src="https://skillicons.dev/icons?i=go" width="58" />
       </td>
-      <td> Firebase <br/>
-        <img src="https://skillicons.dev/icons?i=firebase" width="58" />
+      <td>   wasm <br/>
+        <img src="https://skillicons.dev/icons?i=wasm" width="58" />
       </td>
         <td>   .NET  <br/>
       <img src="https://skillicons.dev/icons?i=dotnet" width="58" />
@@ -133,6 +133,9 @@
       </td>
       <td>   PostgreSQL   <br/>
         <img src="https://skillicons.dev/icons?i=postgres" width="58" />
+      </td>
+      <td> Firebase <br/>
+        <img src="https://skillicons.dev/icons?i=firebase" width="58" />
       </td>
       </tr>
     </table>

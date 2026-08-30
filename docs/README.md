@@ -7,7 +7,7 @@
 		Junior Developer · Software Developer </br>  Graphic · Motion Design
   </p>  
   <p>
-    <a href="https://solightzz.github.io/" target="_blank">
+    <a href="https://solightzz.github.io/" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Portfolio-🌐-blue" target="_blank"/>
     </a>
     <a href="https://solightzz.github.io/" target="_blank">

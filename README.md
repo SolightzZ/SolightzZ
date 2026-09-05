@@ -1,6 +1,6 @@
 <div  align="center">
   <p>
-	  <img	src="https://github.com/SolightzZ/SolightzZ/blob/main/banner-github-hight" alt="banner" />
+	  <img	src="https://github.com/SolightzZ/SolightzZ/blob/main/banner-github-hight.gif" alt="banner" />
   </p>
 	  <h3>Hi 🖐️ My name is TOP</h3>
 	<p>

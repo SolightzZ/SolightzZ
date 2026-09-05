@@ -1,19 +1,21 @@
 <div  align="center">
   <p>
-	  <img	src="https://github.com/SolightzZ/SolightzZ/blob/main/7_C7178FE.gif" alt="banner" />
+	  <img	src="https://github.com/SolightzZ/SolightzZ/blob/main/banner-eva.gif" alt="banner" />
   </p>
 	  <h3>Hi 🖐️ My name is TOP</h3>
 	<p>
 		Junior Developer · Software Developer </br>  Graphic · Motion Design
-  </p>  
-  <p>
-    <a href="https://solightzz.github.io/" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/Portfolio-🌐-blue" target="_blank"/>
-    </a>
-    <a href="https://solightzz.github.io/" target="_blank">
-      <img src="https://komarev.com/ghpvc/?username=SolightzZ&label=PROFILE+VIEWS&color=7a3cff&style=flat" target="_blank"/>
-    </a>
   </p>
+
+ <p>
+  <a href="https://solightzz.github.io/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-🌐-blue" alt="Portfolio" />
+  </a>
+
+  <a href="https://github.com/SolightzZ/SolightzZ" target="_blank" rel="noopener noreferrer">
+    <img src="https://komarev.com/ghpvc/?username=SolightzZ&label=PROFILE+VIEWS&color=7a3cff&style=flat" alt="Profile Views" />
+  </a>
+</p>
 </div>
 
 ---
